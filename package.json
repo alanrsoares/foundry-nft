@@ -1,0 +1,23 @@
+{
+  "name": "foundry-nft",
+  "version": "10.0.1",
+  "description": "",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "forge test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanrsoares/foundry-nft.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alanrsoares/foundry-nft/issues"
+  },
+  "homepage": "https://github.com/alanrsoares/foundry-nft#readme"
+}
