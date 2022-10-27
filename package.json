@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/alanrsoares/foundry-nft/issues"
   },
-  "homepage": "https://github.com/alanrsoares/foundry-nft#readme"
+  "homepage": "https://github.com/alanrsoares/foundry-nft#readme",
+  "devDependencies": {
+    "zx": "^7.1.1"
+  }
 }
